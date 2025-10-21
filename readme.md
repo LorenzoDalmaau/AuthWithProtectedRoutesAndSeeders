@@ -86,7 +86,8 @@ El proyecto incluye un módulo completo para la gestión de productos:
 - **Spring Boot**
 - **Spring Web**
 - **Spring Data JPA**
-- **H2 Database (modo desarrollo)**
+- **MySQL Server**
+- **MySQL Workbench**
 - **Postman (para pruebas de endpoints)**
 
 ---
