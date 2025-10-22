@@ -4,7 +4,9 @@ Este proyecto es una **implementación básica y educativa** que muestra cómo e
 
 ---
 
-## 🏗️ Estructura del Proyecto
+## 🏗️ Estructura del Proyecto 
+
+Hola que tal
 
 El proyecto sigue una **arquitectura por capas**, separando claramente la lógica en:
 
