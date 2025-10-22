@@ -6,8 +6,6 @@ Este proyecto es una **implementación básica y educativa** que muestra cómo e
 
 ## 🏗️ Estructura del Proyecto 
 
-Hola que tal
-
 El proyecto sigue una **arquitectura por capas**, separando claramente la lógica en:
 
 - **Controllers** → Gestionan las peticiones HTTP y las respuestas al frontend.
